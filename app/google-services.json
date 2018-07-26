@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "226484721348",
+    "firebase_url": "https://trackerapp-b7915.firebaseio.com",
+    "project_id": "trackerapp-b7915",
+    "storage_bucket": "trackerapp-b7915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226484721348:android:9030b53e49d4bd9b",
+        "android_client_info": {
+          "package_name": "com.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226484721348-t5m6oe5ua0fulkrmou8g8bou3kihasu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bustracker",
+            "certificate_hash": "8250dad4b27259716fd2c9c2d811367fd949e08c"
+          }
+        },
+        {
+          "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcF_L8Vh9SFMTTmM_Athk8wR9tgSFP-4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226484721348:android:a1c32b80894614b7",
+        "android_client_info": {
+          "package_name": "com.trackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226484721348-ltqfkbvle17ucv73e8fjsemq651i9mav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackerapp",
+            "certificate_hash": "8250dad4b27259716fd2c9c2d811367fd949e08c"
+          }
+        },
+        {
+          "client_id": "226484721348-aa1m938e5fp111r0hua8dv1ivm66i0jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackerapp",
+            "certificate_hash": "063822447eb1f69fa4fba81d07b98f5c4dc7d15c"
+          }
+        },
+        {
+          "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcF_L8Vh9SFMTTmM_Athk8wR9tgSFP-4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226484721348-n63uu6kdna327dlfau8cabkl1odj8kal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
